@@ -7,6 +7,9 @@
 |                  |                  |
 |------------------|------------------|
 |![alt text][cat/1]|![alt text][cat/2]|
+|![alt text][cat/3]|![alt text][cat/4]|
 
 [cat/1]: https://github.com/oubaybenhnin/oubaybenhnin/blob/main/t%C3%A9l%C3%A9chargement%20(1).jpg
 [cat/2]: https://github.com/oubaybenhnin/oubaybenhnin/blob/main/t%C3%A9l%C3%A9chargement%20(2).jpg
+[cat/3]: https://github.com/oubaybenhnin/oubaybenhnin/blob/main/t%C3%A9l%C3%A9chargement.jpg
+[cat/4]: https://github.com/oubaybenhnin/oubaybenhnin/blob/main/headphone%20cat.jpg
